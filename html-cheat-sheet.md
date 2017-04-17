@@ -2,6 +2,7 @@
 
 ## Doctype
 `<!DOCTYPE html>`
+
 Doctype is used at the top of a HTML file to tell the browser which version of HTML you are using.
 
 ## HTML
