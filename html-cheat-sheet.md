@@ -72,6 +72,18 @@ Example:
 </header>
 ```
 
+## Footer
+`<footer></footer>`
+
+The footer element is used for related links, copyright information and information on the author of a section.
+
+Example:
+```
+<footer>
+  <p>Copyright blackgirl.tech&copy;</p>
+</footer>
+```
+
 ## Headings
 `<h1></h1>` - `<h6></h6>` 
 
