@@ -7,10 +7,12 @@ Doctype is used at the top of a HTML file to tell the browser which version of H
 
 ## HTML
 `<html></html>`
+
 The root element of a HTML document which contains all other HTML tags.
 
 ## Title
 `<title></title>`
+
 Contains the title of your HTML document.
 
 Example:
@@ -20,6 +22,7 @@ Example:
 
 ## Head
 `<head></head>`
+
 Contains information about your HTML document and links to other documents such as stylesheets and scripts.
 
 Example:
@@ -31,6 +34,7 @@ Example:
 
 ## Link
 `<link>`
+
 Used to link the HTML document to other documents and resources.
 
 Example:
@@ -39,7 +43,8 @@ Example:
 ```
 
 ## Body
-`<link>`
+`<body></body>`
+
 The body element contains the content of a HTML document.
 
 Example:
@@ -47,4 +52,32 @@ Example:
 <body>
   <h1>Welcome to blackgirl.tech</h1>
 </body> 
+```
+
+## Header
+`<header></header>`
+
+The header element is used to store introductory and navigational content, such as logo, site name and navigation.
+
+Example:
+```
+<header>
+  <nav>
+    <ul>
+      <li>Home</li>
+      <li>About</li>
+      <li>Contact</li>
+    </ul>
+  </nav>
+</header>
+```
+
+## Headings
+`<h1></h1>` - `<h6></h6>` 
+
+Headings have different levels, running from `h1` to `h6`. For example, you should use a `h1` for the most important heading on a page. 
+
+Example:
+```
+<h1>Welcome to blackgirl.tech</h1>
 ```
