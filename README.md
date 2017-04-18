@@ -4,4 +4,5 @@ Useful documents for referencing purposes.
 
 Cheat sheets currently in development
 - HTML
+- CSS
 - JavaScript
