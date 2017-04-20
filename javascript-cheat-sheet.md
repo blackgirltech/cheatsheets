@@ -47,7 +47,7 @@ let degrees = 8;
 if (degrees > 15) {
   console.log('No need for a jacket');
 } else {
-  console.log('You'd better have your jacket');
+  console.log("You'd better have your jacket");
 }
 ```
 
