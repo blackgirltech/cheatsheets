@@ -21,7 +21,7 @@
 ## Variables
 ```js
 // Declare variables using 'var' and 'let'
-var today = "Friday";
+var today = 'Friday';
 let coldOutside = true;
 
 // Declaring a constant - a variable you don't want to be changed
@@ -45,9 +45,9 @@ let degrees = 8;
 
 // Wear a jacket depending on the weather
 if (degrees > 15) {
-  console.log('No need for a jacket')
+  console.log('No need for a jacket');
 } else {
-  console.log('You'd better have your jacket')
+  console.log('You'd better have your jacket');
 }
 ```
 
