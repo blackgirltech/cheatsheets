@@ -1,7 +1,7 @@
 # JavaScript Cheat Sheet
 
 ## Variables
-```
+```js
 // Declare variables using 'var' and 'let'
 var today = "Friday";
 let coldOutside = true;
