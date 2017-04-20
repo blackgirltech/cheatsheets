@@ -14,11 +14,9 @@
 ```
 
 ## Value types
-```
 - Booleans: `true`, `false`
 - Numbers: `20`, `3.14`
 - Strings: `'This is a string'`, `"This is also a string"`
-```
 
 ## Variables
 ```js
